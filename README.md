@@ -16,3 +16,5 @@ O motivo desse resultado é que o segundo corretor acaba criando novas palavras 
 Diferença desempenho:
 *Primeiro corretor -> 75.81% de 186 palavras*
 *Segundo corretor -> 55.38% de 186 palavras*
+
+<img src="https://github.com/duelopes/Corretor_NLP/blob/main/Resultado.png" alt="Resultado"/>
