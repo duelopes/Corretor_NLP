@@ -11,7 +11,9 @@ A ideia do primeiro corretor é corrigir os seguintes casos:
 Depois foi codificado um segundo corretor para casos que se encaixam em mais de uma situação acima, como no caso de ter uma letra a mais e invertida por exemplo.
 
 Foi feita a avaliaçâo de desempenho dos dois corretores com base nos arquivos de palavras. E o resultado foi melhor no primeiro corretor.
+
 <img src="https://github.com/duelopes/Corretor_NLP/blob/main/Resultado.png" alt="Resultado"/>
+
 O motivo desse resultado é que o segundo corretor acaba criando novas palavras que existem no vocabulário e que pode ser mais frequente, corrigindo de forma equivocada. 
 
 ## Diferença desempenho:
